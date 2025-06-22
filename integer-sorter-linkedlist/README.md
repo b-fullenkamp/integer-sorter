@@ -1,4 +1,4 @@
-# IntegerSorter
+# IntegerSorterLinkedList
 
 `IntegerSorterLinkedList` is a Java program that reads a list of integers entered by the user (separated by commas and/or spaces), stores them in a linked list, and sorts them in ascending order.
 
