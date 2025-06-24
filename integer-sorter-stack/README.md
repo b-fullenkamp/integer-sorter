@@ -2,6 +2,9 @@
 
 `IntegerSorterStack` is a Java program that reads a list of integers entered by the user (separated by commas and/or spaces), stores them in a stack, and sorts them in ascending order.
 
+## Author
+Ben Fullenkamp
+
 ## How to Run
 
 Follow these steps to compile and run the program from the terminal:
@@ -33,6 +36,13 @@ Follow these steps to compile and run the program from the terminal:
   34, -2, 7, 0, 19, -5, 7, 88, 3, -42, 194
   ```
 
+## Example Output
+```bash
+Enter a list of integers separated by commas: 
+34, -2, 7, 0, 19, -5, 7, 88, 3, -42, 194
+Sorted List: [-42, -5, -2, 0, 3, 7, 7, 19, 34, 88, 194]
+```
+
 ## Generating Javadoc
 
 To generate the Javadoc documentation for the program, use the following command:
@@ -40,3 +50,4 @@ To generate the Javadoc documentation for the program, use the following command
 ```bash
 javadoc -d bin IntegerSorterStack.java
 ```
+- HTML files will be created in a folder named `bin`
