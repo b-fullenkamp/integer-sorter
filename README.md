@@ -1,5 +1,13 @@
-# integer-sorter
-This repository contains two implementations of an integer sorting program. The user is asked to input a list of integers then the program sorts the numbers in ascending order and stores them in a LinkedList in one version and a Stack in the other version.
+# Integer Sorter
+This repository contains two Java implementations of an integer sorting program. In both versions, the user inputs a list of integers and the program sorts them in ascending order.
 
-## Note
-- Each folder's `README` file contains the instructions to run the code and generate the Javadoc files.
+- `integer-sorter-linkedlist` uses a **LinkedList** to store and sort the input.
+- `integer-sorter-stack` uses a **Stack** to store and sort the input.
+
+Each folder includes its own `README.md` file with:
+- Instructions to compile and run the program.
+- Example test cases.
+- Instructions to generate the Javadoc documentation.
+
+## Author
+Ben Fullenkamp
